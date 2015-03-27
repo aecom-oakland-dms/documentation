@@ -38,3 +38,18 @@ collaborate via github
 ===============================================
 // possibilities
 * (angular or angular 2)
+
+
+============================================
+***USEFULL LINKS, ARTICLES AND PLUGINS
+============================================
+
+[A JavaScript event calendar](http://fullcalendar.io/) Customizable and open source.
+
+[Waterlock Sails](http://waterlock.ninja/) An all encompassing user authentication/json web token management tool.
+
+[ECMAScript 6 promises (2/2): the API](http://www.2ality.com/2014/10/es6-promises-api.html)
+
+[②ality – JavaScript and more](http://www.2ality.com/) Pretty interesting and useful blog on JavaScript.
+http://www.2ality.com/
+
