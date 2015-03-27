@@ -55,3 +55,11 @@ USEFULL LINKS, ARTICLES AND PLUGINS
 [Moment.js 2.9.0](http://momentjs.com/) Parse, validate, manipulate, and display dates in JavaScript.
 
 [DateTime Picker](http://www.malot.fr/bootstrap-datetimepicker/) Bootstrap form component to handle date and time data.
+
+[Implement Passport.js](http://iliketomatoes.com/implement-passport-js-authentication-with-sails-js-0-10-2/) authentication with Sails.js ~0.10
+
+[JavaScript Playground](http://javascriptplayground.com/blog/2015/02/promises/) Embracing Promises in JavaScript.
+
+
+
+
