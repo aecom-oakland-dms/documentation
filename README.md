@@ -55,5 +55,3 @@ USEFULL LINKS, ARTICLES AND PLUGINS
 [Moment.js 2.9.0](http://momentjs.com/) Parse, validate, manipulate, and display dates in JavaScript.
 
 [DateTime Picker](http://www.malot.fr/bootstrap-datetimepicker/) Bootstrap form component to handle date and time data.
-
-http://www.malot.fr/bootstrap-datetimepicker/demo.php
