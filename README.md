@@ -40,9 +40,9 @@ collaborate via github
 * (angular or angular 2)
 
 
-============================================
-***USEFULL LINKS, ARTICLES AND PLUGINS
-============================================
+--------------------------------------------------
+USEFULL LINKS, ARTICLES AND PLUGINS
+--------------------------------------------------
 
 [A JavaScript event calendar](http://fullcalendar.io/) Customizable and open source.
 
@@ -51,5 +51,6 @@ collaborate via github
 [ECMAScript 6 promises (2/2): the API](http://www.2ality.com/2014/10/es6-promises-api.html)
 
 [②ality – JavaScript and more](http://www.2ality.com/) Pretty interesting and useful blog on JavaScript.
-http://www.2ality.com/
+
+[Moment.js 2.9.0](http://momentjs.com/) Parse, validate, manipulate, and display dates in JavaScript.
 
