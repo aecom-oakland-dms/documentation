@@ -35,13 +35,20 @@ collaborate via github
 ***SHOULD WE BE USING USING CONTAINERS???***
 =============================================
 
-===============================================
-// possibilities
-* (angular or angular 2)
+--------------------------------------------------
+UPCOMMING RELEASES IN 2015
+--------------------------------------------------
+* ~~io.js 1.0~~
+* ~~MongoDB 3.0~~
+* Angular 2
+* ECMAScript 6
+* ExpressJS 5
+* Bootstrap 4
+* Sails 1.0
 
 
 --------------------------------------------------
-USEFULL LINKS, ARTICLES AND PLUGINS
+USEFULL LINKS, ARTICLES, PLUGINS AND JUST COOL THINGS
 --------------------------------------------------
 
 [A JavaScript event calendar](http://fullcalendar.io/) Customizable and open source.
@@ -60,6 +67,10 @@ USEFULL LINKS, ARTICLES AND PLUGINS
 
 [JavaScript Playground](http://javascriptplayground.com/blog/2015/02/promises/) Embracing Promises in JavaScript.
 
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/) The iconic font and CSS toolkit.
 
+[Treeline.io](https://treeline.io/) Develop backend apps in your web browser.
+
+[Sane Stack](http://sanestack.com/) A Sails and Ember cli to get you kickstarted with app development 
 
 
