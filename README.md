@@ -38,10 +38,12 @@ collaborate via github
 --------------------------------------------------
 UPCOMMING RELEASES IN 2015
 --------------------------------------------------
-* ~~io.js 1.0~~
+* ~~io.js 2.0~~
+* ~~node.js 0.12.0~~
 * ~~MongoDB 3.0~~
+* ~~Material Design Lite 1.0~~
+* ~~ECMAScript 6~~ 
 * Angular 2
-* ECMAScript 6
 * ExpressJS 5
 * Bootstrap 4
 * Sails 1.0
@@ -74,3 +76,5 @@ USEFULL LINKS, ARTICLES, PLUGINS AND JUST COOL THINGS
 [Sane Stack](http://sanestack.com/) A Sails and Ember cli to get you kickstarted with app development 
 
 [Gulp](http://gulpjs.com/) Automate and enhance your workflow; Alternative to GRUNT. Some of the projects are moving to it. 
+
+[Material Design Lite](http://www.getmdl.io/) Alternative to Twitter Bootstrap from Google.
